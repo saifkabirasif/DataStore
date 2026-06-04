@@ -1,0 +1,9 @@
+District,Sub-District,Date,Revenue,Gross Add,Net Add
+North,Tehsil A,2026-05-15,1200,50,30
+North,Tehsil A,2026-06-15,1500,60,35
+North,Tehsil B,2026-05-15,800,30,20
+North,Tehsil B,2026-06-15,900,35,22
+South,Tehsil C,2026-05-15,2000,80,50
+South,Tehsil C,2026-06-15,2100,85,55
+South,Tehsil D,2026-05-15,1000,40,25
+South,Tehsil D,2026-06-15,1100,45,28
